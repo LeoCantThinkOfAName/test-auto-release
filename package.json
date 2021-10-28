@@ -1,5 +1,5 @@
 {
-  "name": "test-release",
+  "name": "lctoan-test-release",
   "version": "0.0.0-development",
   "description": "testing automatical release process",
   "main": "index.js",
