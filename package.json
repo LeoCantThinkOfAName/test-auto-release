@@ -1,6 +1,6 @@
 {
   "name": "lctoan-test-release",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "testing automatical release process",
   "main": "index.js",
   "author": "leocantthinkofaname",

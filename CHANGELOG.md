@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/LeoCantThinkOfAName/test-auto-release/compare/v1.3.0...v1.3.1) (2021-10-28)
+
+
+### Bug Fixes
+
+* include more assets! ([30a16b4](https://github.com/LeoCantThinkOfAName/test-auto-release/commit/30a16b4d589bfd2550f6ab1e4d3d3a45a638650a))
+
 # [1.2.0](https://github.com/LeoCantThinkOfAName/test-auto-release/compare/v1.1.1...v1.2.0) (2021-10-28)
 
 
