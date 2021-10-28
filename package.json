@@ -1,0 +1,11 @@
+{
+  "name": "test-release",
+  "version": "0.0.0",
+  "description": "testing automatical release process",
+  "main": "index.js",
+  "author": "leocantthinkofaname",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/LeoCantThinkOfAName/test-auto-release"
+  }
+}
