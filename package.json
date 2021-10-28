@@ -9,7 +9,7 @@
     "url": "https://github.com/LeoCantThinkOfAName/test-auto-release"
   },
   "scripts": {
-    "semantic-release": "semantic-release --branches next"
+    "semantic-release": "semantic-release"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.2.1",
