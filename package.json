@@ -1,11 +1,17 @@
 {
   "name": "test-release",
-  "version": "0.0.0",
+  "version": "0.0.0-development",
   "description": "testing automatical release process",
   "main": "index.js",
   "author": "leocantthinkofaname",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/LeoCantThinkOfAName/test-auto-release"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^18.0.0"
   }
 }
