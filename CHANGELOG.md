@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/LeoCantThinkOfAName/test-auto-release/compare/v1.3.1...v1.4.0) (2021-10-28)
+
+
+### Features
+
+* this is the ! we needed ([9dc1a3a](https://github.com/LeoCantThinkOfAName/test-auto-release/commit/9dc1a3ae291c02aaae122f82e0d3a27e8d37ed4b))
+
 ## [1.3.1](https://github.com/LeoCantThinkOfAName/test-auto-release/compare/v1.3.0...v1.3.1) (2021-10-28)
 
 
